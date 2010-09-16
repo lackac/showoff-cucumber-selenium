@@ -1,0 +1,9 @@
+{
+  "name": "Cucumber + Selenium",
+  "sections": [
+    { "section": "agile" },
+    { "section": "cucumber" },
+    { "section": "selenium" },
+    { "section": "tricks" }
+  ]
+}
